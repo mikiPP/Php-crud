@@ -1,4 +1,9 @@
-# Php-cruds
+# Php-crud
 
 
-Crud from codeninja tutorial.
+
+Crud from code of a ninja tutorial.
+
+https://www.codeofaninja.com/rest-api-tutorials
+
+
